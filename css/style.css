@@ -1,0 +1,328 @@
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    height: 665.8px;
+}
+h3 {
+    font-size: 3rem;
+}
+div {
+    display: block;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+div {
+    display: block;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+.title-text h1 {
+    font-size: 5.625rem;
+}
+h1 {
+    display: block;
+    font-size: 2.9em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    /* font-size: 2.5rem; */
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h2 {
+    /* font-size: 1.5em; */
+    font-weight: bold;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+h2 {
+    display: block;
+    /* font-size: 1.5em; */
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+div {
+    display: block;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+    
+
+.mountain {
+    position: relative;
+    /* top: 165px; */
+    bottom: 42px;
+}
+
+
+.ME {
+    height: 200px;
+    position: relative;
+    top: 50px;
+}
+.h2 {
+    position: relative;
+    top: 50px;
+}
+.second {
+    display: block;
+    
+}
+.para {
+    position: relative;
+    top: 40px;
+    text-align: center;
+}
+.skills {
+    position: relative;
+    top: 50px;
+}
+.coding-monkey {
+    height: 150px;
+    position: relative;
+    top: 100px;
+    right: 300px;
+    display: inline-block;
+}
+/* .skills h3 {
+    color: #11999e;
+    position: relative;
+    bottom: 60px;
+    right: 55px;
+    font-size: 20px;
+} */
+.first {
+    color: #11999e;
+    position: relative;
+    bottom: 60px;
+    right: 55px;
+    font-size: 20px;
+    
+}
+.journey-of-coding {
+    position: relative;
+    left: 260px;
+    bottom: 250px;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
+/* hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    position: relative;
+    top: 30px;
+} */
+.first-hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    position: relative;
+    top: 30px;
+}
+.brain {
+    height: 250px;
+    position: relative;
+    right: 590px;
+    top: 50px;
+    display: inline-block;
+}
+.Fast-Learner {
+    color: #11999e;
+    position: relative;
+    bottom: 190px;
+    right: 100px;
+    font-size: 20px;
+    
+
+}
+.Fast-Learner-para {
+    position: relative;
+    bottom: 215px;
+    left: 100px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: left;
+}
+.second-hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    position: relative;
+    bottom: 200px;
+
+}
+.my-projects {
+    position: relative;
+    bottom: 100px;
+}
+.TinDog {
+    display:flex;
+    justify-self: left;
+    text-align: left;
+    font-size: 50px;
+    color: #11999e;
+    text-decoration: dashed;
+    position: relative;
+    letter-spacing: 2px;
+    
+}
+.Move_it {
+    display:flex;
+    justify-self: left;
+    text-align: left;
+    font-size: 50px;
+    color: #11999e;
+    text-decoration: dashed;
+    position: relative;
+    letter-spacing: 2px;
+}
+.thrid {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    position: relative;
+    
+}
+footer {
+    background-color:#66bfbf;
+    height: 150px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.preview-of-projects {
+    display: flex;
+    justify-content: left;
+    position: relative;
+    top: 20px;
+}
+.panting {
+    display: flex;
+    justify-self: left;
+    text-align: left;
+    font-size: 50px;
+    color: #11999e;
+    text-decoration: dashed;
+    position: relative;
+    letter-spacing: 2px;
+}
+.text-of-the-footer {
+    position: relative;
+    top: 20px;
+    padding: 20px 0;
+    display: inline-flex;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+.copyrights {
+    position: relative;
+    top: 20px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+    position: relative;
+}
